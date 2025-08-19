@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anand Gokhale"
+title                    : "Arie Ogranovich"
 title_separator          : "-"
-name                     : &name Anand Gokhale"
+name                     : &name Arie Ogranovich"
 description              : &description "personal description"
-url                      : https://anandgokhale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://arie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AnandGokhale/anandgokhale.github.io"
+repository               : "arieogranovich/arie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anand Gokhale"
+  name             : "Arie Ogranovich"
   avatar           : "profile.jpeg"
   bio              : "PhD Student, University of California, Santa Barbara"
   location         : "University of California, Santa Barbara"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=MBXSYV0AAAAJ&hl=en"
-  email            : "anand_gokhale@ucsb.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=jnYTz5IAAAAJ&hl=en&oi=ao"
+  email            : "arieogranovich@ucsb.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AnandGokhale"
+  github           : "https://github.com/arieogranovich"
   google_plus      :
   keybase          :
   instagram        :
