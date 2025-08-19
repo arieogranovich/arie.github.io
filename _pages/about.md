@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- I am a PhD candidate at the University of California in the Department of Mechanical Engineering. I am advised by [Prof. Francesco Bullo](https://fbullo.github.io/). My primary interest lies in studying multiagent systems, especially their applications in Machine Learning, Distributed Optimization, and Game Theory. Additionally, I am keen on exploring mixed human-AI teams, aiming to understand how humans and AI can collaborate effectively, leveraging each other's strengths.
-- Previously, I was an undergraduate student at [Indian Institute of Technology Madras's](https://www.iitm.ac.in/) Electrical Engineering Department being advised by [Prof. Ramkrishna Pasumarthy](http://www.ee.iitm.ac.in/ramkrishna/), in collaboration with [Stanford Cognitive & Systems Neuroscience Lab](https://med.stanford.edu/scsnl.html) studying Controllability in Brain Networks. 
-- As an undergrad, I also worked extensively on Distributed Optimization, with labs in UC San Diego, University of Minnesota and in IIT Madras. I was involved with the [Computer Vision and Intelligence Group](https://iitmcvg.github.io/) at IIT Madras, working on topics in Computer Vision, Machine Learning and their applications.
-- In my leisure time, I enjoy playing and watching football(soccer), I support Manchester United.
+- I'm a systems theorist who builds and analyzes mathematical models of complex biological and social systems. My goal is to understand how information is encoded into such systems and leverage this understanding towards the creation of novel modes of artificial computation.
+- I am a PhD student in Mechanical Engineering at UC Santa Barbara where I am fortunate to be advised by [Prof. Francesco Bullo](https://fbullo.github.io/). Previously, I obtained a B.S in Mathematics from Rice University.
+- In my free time, I sing acappella and bike around Southern California.

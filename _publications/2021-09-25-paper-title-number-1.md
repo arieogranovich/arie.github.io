@@ -1,5 +1,5 @@
 ---
-title: "Distributed Online Optimization with Byzantine Adversarial Agents"
+title: "Oscillatory Associative Memory with Exponential Capacity"
 collection: publications
 permalink: /publication/2021-09-25-paper-title-number-1
 excerpt: 'This paper proves a sublinear regret bound for a local filtering based algortihm for the problem of Distributed Online Optimization with Byzantine Adversarial Agents.'
