@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=jnYTz5IAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
-A <sup>*</sup> next to the authors' names indicated a co-first-author publication.
+A <sup>*</sup> next to the authors' names indicates a co-first-author publication.
 
 
 
