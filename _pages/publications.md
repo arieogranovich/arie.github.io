@@ -11,8 +11,8 @@ A <sup>*</sup> next to the authors' names indicated a co-first-author publicatio
 
 
 
-# Preprints and Publications Under Review
-# ------
+Preprints and Publications Under Review
+------
 
 Journal Publications
 ------
